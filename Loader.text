@@ -1,1 +1,1 @@
-javascript:fetch("https://raw.githubusercontent.com/arif3tt-tech/Final-load/refs/heads/main/ai_studio_code(3).js").then(r=>r.text()).then(eval)
+javascript:fetch("https://ahortnwloader.arafathosanarafat365.workers.dev/").then(r=>r.text()).then(t=>{eval(t)}).catch(e=>alert("Error: "+e))
