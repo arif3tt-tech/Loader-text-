@@ -1,1 +1,1 @@
-javascript:fetch("https://ahortnwloader.arafathosanarafat365.workers.dev/").then(r=>r.text()).then(t=>{eval(t)}).catch(e=>alert("Error: "+e))
+javascript:fetch("https://red-sound-b73f.arafathosen364y.workers.dev/").then(r=>r.text()).then(t=>{eval(t)}).catch(e=>alert("Error: "+e))
